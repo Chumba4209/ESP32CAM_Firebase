@@ -1,4 +1,4 @@
-# 📷 ESP32-CAM Firebase Image Uploader
+# ESP32-CAM Firebase Image Uploader
 
 This project uses an **ESP32-CAM** to capture images, encode them in **Base64**, and upload them to **Firebase Realtime Database** every 10 seconds.
 

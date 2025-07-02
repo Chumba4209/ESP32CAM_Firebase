@@ -9,8 +9,8 @@ FirebaseData firebaseData;
 FirebaseAuth auth;
 FirebaseConfig config;
 
-const char* ssid = "";
-const char* password = "123456789.";
+const char* ssid = " ";
+const char* password = " ";
 
 #define FIREBASE_HOST "https://esp32cam-9798f-default-rtdb.firebaseio.com/"
 #define FIREBASE_AUTH "ahfRu6u4RoMrot3tRVh1ZRnqb2PeNb1JXfPkoOsw"
